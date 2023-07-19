@@ -1,6 +1,7 @@
 # Welcome at Genboy's github corner
 
-Next project is an all inclusive never ending reasearch into our Hyperreality
+Next project is ..[AI, open, anomious and free](https://github.com/genboy/genai) if possible..
+and an all inclusive never ending reasearch into our Hyperreality
 
 More info on this will follow in a complete repository
 
